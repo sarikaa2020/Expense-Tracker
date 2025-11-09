@@ -1,3 +1,5 @@
+// Minor update: Added comment for GitHub contribution - 09 Nov 2025
+
 package com.expensetracker.dao;
 
 import java.sql.Connection;
