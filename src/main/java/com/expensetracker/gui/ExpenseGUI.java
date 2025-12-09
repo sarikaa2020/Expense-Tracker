@@ -24,7 +24,7 @@ import com.expensetracker.dao.CategoryDAO;
 import com.expensetracker.dao.ExpenseDAO;
 import com.expensetracker.model.Category;
 import com.expensetracker.model.Expenses;
-import javax.swing.SwingUtilities;
+import javax.swing.SwingUtilities
 
 
 public class ExpenseGUI extends JFrame {
